@@ -5,6 +5,12 @@ To start, download XAMPP can follow its instructions. Then, once you download al
 Open XAMPP and turn on Apache (and MySQL if not using MySQL Workbench) and go to the LandingPage.php 
 If this works then you have installed it successfully. 
 
-This project was made by me, heerii,magetooo!, MaxEntro, S2112 
+This project was made by the following people:
+
+Maheera Memon
+Do Chi Tai Tat
+Siddhartha Reddy Mula 
+Agnus Thomas
+Mageto Nyakoni
 
 Demolink: https://youtu.be/JVCldtOKL84
