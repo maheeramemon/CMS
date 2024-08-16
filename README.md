@@ -7,10 +7,10 @@ If this works then you have installed it successfully.
 
 This project was made by the following people:
 
-Maheera Memon
-Do Chi Tai Tat
-Siddhartha Reddy Mula 
-Agnus Thomas
-Mageto Nyakoni
+-Maheera Memon
+-Do Chi Tai Tat
+-Siddhartha Reddy Mula 
+-Agnus Thomas
+-Mageto Nyakoni
 
 Demolink: https://youtu.be/JVCldtOKL84
